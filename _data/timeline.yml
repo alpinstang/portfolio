@@ -17,45 +17,52 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Freelance Development
+  title-url: https://github.com/alpinstang
+  date: Sep 2020 - Present
+  subtitle: Full Stack Developer
   tags:
     - tag: React
     - tag: Node
     - tag: Javascript
+    - tag: Unity
+    - tag: C#
+  timeline-side: left
+
+- title: Hat Boy Software
+  title-url: https://www.hatboysoftware.com/
+  date: Aug 2016 - Aug 2020
+  subtitle: Full Stack Developer
+  tags:
+    - tag: React
+    - tag: React Native
+    - tag: Javascript
+    - tag: Python
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Sullivan Branding
+  title-url: https://www.sullivanbranding.com/
+  date: Jan 2016 - Aug 2016
+  subtitle: Web Developer
+  tags:
+    - tag: HTML
+    - tag: Javascript
+    - tag: C#
+    = tag: SiteCore
+    - tag: Sharepoint
+  timeline-side: left
+
+- title: Pannin Technologies
+  date: Dec 2014 - Jan 2016
+  subtitle: Junior Developer
+  tags:
+    - tag: C#
+    - tag: AWS
+    - tag: RTMP
+  timeline-side: right
+
+- title: University of Memphis
+  title-url: https://www.memphis.edu/
+  date: 2009 - 2014
+  subtitle: B.S. Engineering Technology
   timeline-side: left
