@@ -21,8 +21,8 @@ email: jcm.codes@gmail.com
 # If you do not use one of the following websites, then leave it empty
 twitter_username: jmcdonald91
 github_username: alpinstang
-codepen_username: exampleUser
-dev_username: exampleUser
+codepen_username: alpinstang
+dev_username:
 linkedin_username: johnchristophermcdonald
 
 # ABOUT ME SECTION
@@ -33,7 +33,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: A Developer from Gulf Breeze Florida. I'm used to wearing different hats and working under a deadline. I <3 React! When I'm not burning up my keyboard I enjoy playing vidoe games, cooking, wathcing movies, and camping. I also dabble in indie game development with <a href="http://www.unity.com">Unity Engine</a> game development. You can find a few of my projects on github.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -52,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://www.linkedin.com/in/johnchristophermcdonald
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -62,7 +62,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: true
+show_projects: false
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
@@ -80,12 +80,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: You can always reach me through <a href="https://www.linkedin.com/in/johnchristophermcdonald">LinkedIn,</a> or email me at <a href="mailto:jcm.codes@gmail.com">this address</a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: alpinstang/portfolio
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -109,7 +109,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "G-989VGQDGCS"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
