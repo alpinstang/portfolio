@@ -26,20 +26,8 @@
 - name: Java
   weight: 1
 
-- name: ReactJS
-  weight: 6
-  
-- name: React Native
-  weight: 5
-
-- name: NodeJS
-  weight: 5
-
 - name: C#
   weight: 3
 
 - name: Ruby
   weight: 2
-  
-- name: Angular
-  weight: 3
