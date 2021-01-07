@@ -17,52 +17,71 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Freelance Development
-  title-url: https://github.com/alpinstang
-  date: Sep 2020 - Present
-  subtitle: Full Stack Developer
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-    - tag: Unity
-    - tag: C#
+--- 
+- 
+  date: "Sep 2020 - Present"
+  subtitle: "Full Stack Developer"
+  tags: 
+    - 
+      tag: React
+    - 
+      tag: Node
+    - 
+      tag: Javascript
+    - 
+      tag: Unity
+    - 
+      tag: "C#"
   timeline-side: left
-
-- title: Hat Boy Software
-  title-url: https://www.hatboysoftware.com/
-  date: Aug 2016 - Aug 2020
-  subtitle: Full Stack Developer
-  tags:
-    - tag: React
-    - tag: React Native
-    - tag: Javascript
-    - tag: Python
+  title: "Freelance Development"
+  title-url: "https://github.com/alpinstang"
+- 
+  date: "Aug 2016 - Aug 2020"
+  subtitle: "Full Stack Developer"
+  tags: 
+    - 
+      tag: React
+    - 
+      tag: "React Native"
+    - 
+      tag: Javascript
+    - 
+      tag: Python
   timeline-side: right
-
-- title: Sullivan Branding
-  title-url: https://www.sullivanbranding.com/
-  date: Jan 2016 - Aug 2016
-  subtitle: Web Developer
-  tags:
-    - tag: HTML
-    - tag: Javascript
-    - tag: C#
-    = tag: SiteCore
-    - tag: Sharepoint
+  title: "Hat Boy Software"
+  title-url: "https://www.hatboysoftware.com/"
+- 
+  date: "Jan 2016 - Aug 2016"
+  subtitle: "Web Developer"
+  tags: 
+    - 
+      tag: React
+    - 
+      tag: "React Native"
+    - 
+      tag: Javascript
+    - 
+      tag: Python
   timeline-side: left
-
-- title: Pannin Technologies
-  date: Dec 2014 - Jan 2016
-  subtitle: Junior Developer
-  tags:
-    - tag: C#
-    - tag: AWS
-    - tag: RTMP
+  title: "Sullivan Branding"
+  title-url: "https://www.sullivanbranding.com/"
+- 
+  date: "Dec 2014 - Jan 2016"
+  subtitle: "Junior Developer"
+  tags: 
+    - 
+      tag: "C#"
+    - 
+      tag: Javascript
+    - 
+      tag: SiteCore
+    - 
+      tag: Wordpress
   timeline-side: right
-
-- title: University of Memphis
-  title-url: https://www.memphis.edu/
-  date: 2009 - 2014
-  subtitle: B.S. Engineering Technology
+  title: "Pannin Technologies"
+- 
+  date: "2009 - 2014"
+  subtitle: "B.S. Engineering Technology"
   timeline-side: left
+  title: "University of Memphis"
+  title-url: "https://www.memphis.edu/"
