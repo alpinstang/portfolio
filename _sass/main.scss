@@ -2,6 +2,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
 /* Variables */
 
@@ -909,4 +910,8 @@ a {
   100% {
     bottom: 0;
   }
+}
+
+.cert-id (
+  font-family: 'Roboto Mono', monospace;
 }
