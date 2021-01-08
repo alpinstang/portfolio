@@ -6,10 +6,11 @@
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
         </div>
-         <div class="cert-image style="max-height:500px">
+         <div class="cert-image style="max-height:350px; margin-bottom: 5px;">
           <img style="width: 100%" src={{project.image}} />
         </div>
-        <p class="project-desc">{{project.descr}}</p>
+        <p style="margin-bottom: 5px;" class="project-desc">{{project.descr}}</p>
+        <p class="project-desc">{{project.id}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
             Link
