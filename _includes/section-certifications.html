@@ -2,6 +2,9 @@
   <h1 class="title"><span>{{site.certifications_title}}</span></h1>
   <div class="projects-wrapper">
     {% for project in site.data.certifications %}
+    <div class="cert-image style="max-height:500px">
+      <img style="width: 100%" src={{project.image}} />
+    </div>
       <div class="project neumorphism-card" data-aos="zoom-in-down">
         <div class="name-link-wrapper">
           <h3>{{project.name}}</h3>
@@ -9,15 +12,8 @@
         <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+            Link
           </a>
-        {% endif %}
-        {% if project.tags %}
-          <div class="tag-wrapper">
-            {% for tag in project.tags %}
-              <span class="tag neumorphism-card">{{tag.tag}}</span>
-            {% endfor %}
-          </div>
         {% endif %}
       </div>
     {% endfor %}
